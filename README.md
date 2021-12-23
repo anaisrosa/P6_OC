@@ -1,4 +1,4 @@
-# projet6
+# projet6 Piiquante
 
 Construisez une API sécurisée pour une application d'avis gastronomiques - Projet 6 Oprenclassrooms : "Développeur Web"
 Une fois le projet installé, rendez-vous sur http://localhost:4200/
