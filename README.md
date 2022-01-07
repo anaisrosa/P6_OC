@@ -36,7 +36,7 @@ Voici les dépendences à installer:
 - node-sass : vérifiez de bien avoir la même version que NodeJS. Pour Noe 14.0 for exemple, vous aurez besoin de node-sass en version 4.14+.
 Sur Windows, ces installations doivent être faites via le PowerShell en mode administrateur.
 
-Ensuite, clonnez le repo : https://github.com/OpenClassrooms-Student-Center/Web-Developer-P6.git ,  faites run npm install, puis run npm install --save-dev run-script-os.
+Ensuite, clonnez le repo : https://github.com/brunoher24/ocr-p6-frontend-angular.git ,  faites run npm install, puis run npm install --save-dev run-script-os.
 
 Usage
 Exécutez npm start. Cela devrait à la fois exécuter le serveur local et lancer votre navigateur.
